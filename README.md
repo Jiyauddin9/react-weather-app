@@ -20,7 +20,8 @@ https://openweathermap.org/current
 <h3><strong>Icons & Font -</strong></h3>
 
 <ul>
-   <li>Icons: jiyauddin9/react-weather-app</li>
+   <li>Icons: https://github.com/Jiyauddin9/react-weather-app/tree/main/public/icon</li>
+   <li>https://openweathermap.org/weather-conditions</li>
    <li>Font Link: link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet"></li>
 </ul>
 <h3><strong>Libraries used</strong></h3>
